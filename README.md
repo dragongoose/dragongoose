@@ -1,5 +1,5 @@
-## Girls' Last Tour
-Despite war ruining the world, leaving only them, their books, and themselves, they continued as long as they could. Despite losing everything along the way, they had 1 goal, and did everything to reach their goal. Learning the power of weapons, the history of everything, and the meaning of everything, and enjoying the time they had with eachother despite the situations. Despite losing everything across the way, they reached their goal, and had fun along the way.
+
+**Despite war ruining the world, leaving only them, their books, and themselves, they continued as long as they could. Despite losing everything along the way, they had 1 goal, and did everything to reach their goal. Learning the power of weapons, the history of everything, and the meaning of everything, and enjoying the time they had with eachother despite the situations. Despite losing everything across the way, they reached their goal, and had fun along the way.**
 
 <div float="left">
   <img style="width: 49%" src="https://user-images.githubusercontent.com/19649813/227292434-67fc64c9-2b82-4c8a-bbd9-4f9b5f6a28ff.jpg">
